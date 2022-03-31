@@ -40,7 +40,7 @@ class Dog():
         print(self.name.title() + ' собака перекатилась')
 
     
-my_dog = Dog('Tolpik', 2)
+my_dog = Dog('Tolpik', 5)
 my_dog_2 = Dog('Reks', 12)
 
 print(my_dog.age)
